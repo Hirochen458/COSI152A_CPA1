@@ -1,6 +1,6 @@
 # COSI153_CPA1
 You are assigned to create an html document about yourself. The document should contain an introduction of you, your hobbies, your favorite movies, your favorite subjects and etc., and it is required that you should use at least once each of the following elements in your document:
-• Heading elements <h1> and <h2> 
+• Heading elements
 • Image element <img/>
 • Paragraph element <p>
 • Anchor element <a>
